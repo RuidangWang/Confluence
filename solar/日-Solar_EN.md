@@ -1,6 +1,5 @@
 # **日-Solar** -- Writing Sound Myth
-
-Mian-Mian
+王面面
 2026.09.19
 
 ## The Same Sun, Two Starting Points of Civilization
