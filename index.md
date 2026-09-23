@@ -9,4 +9,3 @@
 - [日 - Solar English](solar/日-Solar_EN.md)
 - [拼音 PinYin](PinYin/YinPin_CN.md)
 - [还记得吗？中文](we_are_18/we_are_18_poem_CN.md)
--
