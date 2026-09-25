@@ -5,6 +5,7 @@
 ---
 
 - [伤心 - Broken Heart  中文](brokenHeart/brokenHeart_CN.md)
+- [Broken Heart  English](brokenHeart/brokenHeart_EN.md)
 - [日 - Solar 中文](solar/日-Solar_CN.md)
 - [日 - Solar English](solar/日-Solar_EN.md)
 - [拼音 PinYin](PinYin/YinPin_CN.md)
