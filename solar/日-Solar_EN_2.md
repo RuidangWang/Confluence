@@ -61,8 +61,3 @@ One let meaning settle into the form of the character; the other let it flow thr
 Today, as we learn each other’s languages and read each other’s stories,  
 we are still answering the same ancient question:  
 how should we name that shining thing, write it down, and understand it?
-
-The sun illuminates the same sky,  
-and we once walked different roads in its light,  
-yet again and again, in each other’s words and sounds,  
-we see the same sun anew.
